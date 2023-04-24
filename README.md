@@ -18,6 +18,7 @@ blazeface.pth: the weights for the trained model
 
 anchors.npy: lookup table with anchor boxes
 
+blazeface_video.py defines the face detection in video.
 Notebooks:
 
 Anchors.ipynb: creates anchor boxes and saves them as a binary file (anchors.npy)
@@ -25,3 +26,9 @@ Anchors.ipynb: creates anchor boxes and saves them as a binary file (anchors.npy
 Convert.ipynb: loads the weights from the TFLite model and converts them to PyTorch format (blazeface.pth)
 
 Inference.ipynb: shows how to use the BlazeFace class to make face detections
+
+## Installation
+To install this project, follow these steps:
+
+Clone the repository 
+Install the required packages.
