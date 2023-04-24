@@ -31,4 +31,14 @@ Inference.ipynb: shows how to use the BlazeFace class to make face detections
 To install this project, follow these steps:
 
 Clone the repository 
-Install the required packages.
+To use this project, you'll need to have Python 3 and the following libraries installed:
+- TensorFlow
+- OpenCV
+- NumPy
+
+## Contributing
+Contributions to this project are welcome! If you have any ideas or suggestions, feel free to open an issue or submit a pull request.
+
+## Acknowledgements
+
+This project is based on the BlazeFace model developed by Google. We would like to thank the authors of the original paper and the TensorFlow team for making their work available to the public.
